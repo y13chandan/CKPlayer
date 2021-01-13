@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592436103066",
+    "project_id": "ckplayer-e8a03",
+    "storage_bucket": "ckplayer-e8a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592436103066:android:942dbd349376613d6a1c23",
+        "android_client_info": {
+          "package_name": "com.example.ckplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592436103066-eejobl45hjhq3289e48s5guu5t1ed854.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0wb5dNJc8Dsqcx0bbM-w41CY1rFT2dnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592436103066-eejobl45hjhq3289e48s5guu5t1ed854.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
